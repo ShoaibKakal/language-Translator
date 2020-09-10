@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D5362</color>
+    <color name="colorPrimaryDark">#264653</color>
+    <color name="colorAccent">#47829A</color>
+    <color name="colorGray77">#C4C4C4</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrayIcon">#403E3E</color>
+    <color name="colorIconEclipse">#EDEDED</color>
+    <color name="colorActivityBackground">#F0F0F0</color>
+
+</resources>

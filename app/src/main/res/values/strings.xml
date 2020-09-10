@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+
+    <string-array name="inputLanguages">
+        <item>English</item>
+        <item>Urdu</item>
+        <item>Arabic</item>
+        <item>Hindi</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Turkish</item>
+        <item>Russian</item>
+        <item>Russian</item>
+        <item>Japaness</item>
+        <item>Tamil</item>
+
+    </string-array>
+</resources>
